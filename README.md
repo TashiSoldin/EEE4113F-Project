@@ -1,6 +1,8 @@
 # EEE4113F-Project
 
-This ReadMe overviews and explains the software developed for group 17's EEE4113F project. 
+This ReadMe overviews and explains the software developed for group 17's bird weight measurement EEE4113F project. 
+
+The system that this software operates was designed specifically to measure the weight of Kalaharian drongos, while providing a clean and effective user interface via a webserver. 
 
 The following files make up this repository:
 
