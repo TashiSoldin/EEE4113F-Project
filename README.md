@@ -13,4 +13,6 @@ The following files make up this repository:
 
 - LICENSE defines the license for the project.
 
+<img width="753" alt="image" src="https://github.com/TashiSoldin/EEE4113F-Project/assets/75614710/03595e1b-d2c4-4455-b6fd-44221c70834b">
+
 Copyright ©, 2023
